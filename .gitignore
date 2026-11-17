@@ -1,0 +1,16 @@
+# Vivado
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+# VCS / Verdi
+csrc/
+simv*
+*.fsdb
+verdiLog/
+ucli.key
